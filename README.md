@@ -5,13 +5,13 @@ Memorandum
 
 #Table of contents
 
-- [Atom Installation](https://github.com/jarden-liu/Memorandum/blob/master/AtomInstallation.md)
-- [Ionic Installation](https://github.com/jarden-liu/Memorandum/blob/master/IonicInstallation.md)
+- [Atom Installation](https://github.com/prui/Memorandum/blob/master/AtomInstallation.md)
+- [Ionic Installation](https://github.com/prui/Memorandum/blob/master/IonicInstallation.md)
 
 
 #Linux
-- [ubuntu](https://github.com/jarden-liu/Memorandum/blob/master/Linux/ubuntu.md)
-- [deepin](https://github.com/jarden-liu/Memorandum/blob/master/Linux/deepin.md)
+- [ubuntu](https://github.com/prui/Memorandum/blob/master/Linux/ubuntu.md)
+- [deepin](https://github.com/prui/Memorandum/blob/master/Linux/deepin.md)
 
 <!-- # Demo
 
