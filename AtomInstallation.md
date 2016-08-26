@@ -14,6 +14,9 @@ Atom Installation
     fonts
     highlight-selected
     linter-eslint
+    -------
+    webbox-color
+    chrome-color-picker
 ```
 * install by apm
 ```bash
