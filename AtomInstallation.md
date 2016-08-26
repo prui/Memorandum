@@ -17,6 +17,8 @@ Atom Installation
     -------------------
     webbox-color
     chrome-color-picker
+    minimap
+    pigments
 ```
 * install by apm
 ```bash
